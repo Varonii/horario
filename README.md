@@ -24,7 +24,7 @@ Acompanhamento diário das minhas tarefas e evolução no NPI.
 ### Quarta-feira (19/08)
 - [x] Pensamento 2
 - [ ] Tarefa 3 Guilherme
-- [ ] POO - AT07
+- [x] POO - AT07
 
 ### Quinta-feira (20/08)
 - [x] POO - AT07
