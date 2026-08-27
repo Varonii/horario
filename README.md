@@ -1,47 +1,16 @@
-# 🗓️ Cronograma de Atividades - NPI
+# Cronograma de ativiades - NPI
 
-Acompanhamento diário das minhas tarefas e evolução no NPI.
+Repositório para organizar e acompanhar as atividades da semana, de **segunda a sexta-feira**.
 
-##  Metas da Semana
-- [x] Terminar tarefas do Guilherme.
-- [ ] Terminar a lista 1 do Guilherme.
-- [ ] Estudar POO por fora.
+## Sobre
 
----
+Este repositório contém o planejamento semanal de atividades, dividido por dia da semana, para facilitar o acompanhamento de tarefas, estudos e compromissos.
 
-##  Semana Atual: 17/08 a 21/08
+Cada dia contém:
+- Descrição da tarefa
+- Status (a fazer / concluído)
 
-### Segunda-feira (17/08)
-- [x] LondrinenseTech
-- [x] Relatório e commit no portfolio
-- [x] Tarefa 1 Guilherme
+## Observações
 
-### Terça-feira (18/08)
-- [x] Pensamento 
-- [x] Relatório e commit no portfolio
-- [x] Tarefa 2 Guilherme
-
-### Quarta-feira (19/08)
-- [x] Pensamento 2
-- [ ] Tarefa 3 Guilherme
-- [x] POO - AT07
-
-### Quinta-feira (20/08)
-- [x] POO - AT07
-- [ ] Lista 1 Guilherme
-
-### Sexta-feira (21/08)
-- [ ] Lista 1 Guilherme 
-
----
-
-## Links
-* [https://github.com/Varonii/TarefasDaSemana](#)
-* [https://github.com/Varonii/Portifolio](#)
-
-
----
-
-## 🗄️ Histórico
-*Quando a semana acabar, crie um arquivo novo para ela na pasta `historico/` ou mova as informações antigas para cá, deixando o topo do README sempre limpo para a semana atual.*
-* [Semana 10/08 a 14/08](link-para-o-arquivo.md)
+- Este cronograma é para o NPI e pode ser atualizado a qualquer momento.
+- Novos arquivos `.md` podem ser adicionados para detalhar semanas específicas ou tipos de atividades.
