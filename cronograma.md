@@ -30,7 +30,11 @@
 - [ ] Montar aula
 
 ---
+## Observações da semana
 
+Consegui definir objetivos pessoais e profissionais claros para as próximas semanas no notion, iniciei um curso novo de java, consegui manter todas as entregas em dia e consegui treinar nos dias definidos.
+
+---
 ## Links
 * [https://github.com/Varonii/TarefasDaSemana](#)
 * [https://github.com/Varonii/Portifolio](#)
