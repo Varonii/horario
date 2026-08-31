@@ -1,4 +1,4 @@
-# Cronograma de ativiades - NPI
+# Cronograma de ativdades - NPI
 
 Repositório para organizar e acompanhar as atividades da semana, de **segunda a sexta-feira**.
 
