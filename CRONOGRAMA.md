@@ -1,38 +1,37 @@
-##  Semana: 24/08 a 28/08
+##  Semana: 31/08 a /09
 
 ##  Metas da Semana
-- [ ] Terminar tarefas do Guilherme.
 - [ ] Fazer a lista 1 e 2 do Guilherme.
-- [ ] Montar aula LondrineseTech.
-- [ ] Revisar DOM.
+- [ ] Função de Add tarefa e sons no PomodoIT.
+- [ ] Avançar no Kanban do Iron.
 
 ---
 
 ### Segunda-feira (17/08)
 - [x] LondrinenseTech
 - [x] Relatório e commit no portfolio
-- [ ] Tarefa 3 Guilherme
-
+- [ ] PomodoIT
+- [ ] POO AT12
 ### Terça-feira (18/08)
-- [x] Pensamento 
-- [x] Relatório e commit no portfolio
+- [ ] Pensamento 
+- [ ] Relatório e commit no portfolio
+- [ ] PomodoIT
 
 ### Quarta-feira (19/08)
 - [x] Pensamento 2
-- [ ] Tarefa 3 Guilherme
+- [ ] Tarefa 4 Guilherme
 
 ### Quinta-feira (20/08)
-- [x] POO - AT10
-- [ ] DOM pt1
-
+- [x] POO - AT13
+- [ ] PomodoIT
 ### Sexta-feira (21/08)
-- [x] DOM pt2
-- [x] Montar aula
+- [x] Função login no PomodoIT
+- [x] Relaxar um pouquinho q o pai nn é d ferro né
 
 ---
 ## Observações da semana
 
-Consegui definir objetivos pessoais e profissionais claros para as próximas semanas no notion, iniciei um curso novo de java, consegui manter todas as entregas em dia e consegui treinar nos dias definidos.
+A semana não acabou ainda po
 
 ---
 ## Links
